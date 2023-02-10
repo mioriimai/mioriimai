@@ -5,20 +5,22 @@ My name is Miori Imai, and I'm a full-stack software engineer with a passion for
 
 [![Miori's GitHub stats](https://github-readme-stats.vercel.app/api?username=mioriimai&show_icons=true&theme=vue&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ 
 * 🔭 I’m currently working on: adding stretch features to my existing projects.
+
 * 🌱 I’m currently learning: React Hooks.
 * 💡 I intend to be resourceful and am always looking to expand my skill set.
 * ⚡ Fun fact: I love cats and outdoor activities!
 * 📫 How to reach me: mioriimaii@gmail.com
-<br/>
+
 
 ## Languages and Tools
-[![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,jquery,postgres,babel,webpack,angular,git,github,vscode,figma)](https://skillicons.dev)
+ [![stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,jquery,postgres,babel,webpack,angular,git,github,vscode,figma)](https://skillicons.dev)
 
 * 📚 Stack - React, Angular, JavaScript, CSS3, HTML5, JQuery, Node.js, Express.js, PostgreSQL
+
 * 🛠️ Tools - npm, Babel, Webpack, Git, Github, Slack, VS Code, Figma
-<br/>
+
 
 ## Let's connect!
 Here is my [LinkedIn Profile](https://www.linkedin.com/in/miori-imai/)
