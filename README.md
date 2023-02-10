@@ -1,6 +1,6 @@
 # Hello World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## About Me 👩🏻‍💻✨
-My name is Miori Imai, and I'm a full-stack software engineer with a passion for building applications that make the world a better place. I love problem-solving because I get joy from it and I am constantly trying to improve my knowledge and understanding of coding!
+My name is Miori Imai, and I'm a full stack developer with a passion for building applications that make the world a better place. I love problem-solving because I get joy from it and I am constantly trying to improve my knowledge and understanding of coding!
 
 
 [![Miori's GitHub stats](https://github-readme-stats.vercel.app/api?username=mioriimai&show_icons=true&theme=vue&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
