@@ -7,7 +7,7 @@ My name is Miori Imai, and I'm a full stack engineer with a passion for building
 
  
 * 🔭 I’m currently working on: adding stretch features to my existing projects.
-* 🌱 I’m currently learning: React Hooks.
+* 🌱 I’m currently learning: Typescript, Next.js, Tailwind CSS, React Hooks.
 * 💡 I intend to be resourceful and am always looking to expand my skill set.
 * ⚡ Fun fact: I love cats and outdoor activities!
 * 📫 How to reach me: mioriimaii@gmail.com
