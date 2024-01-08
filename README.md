@@ -2,9 +2,9 @@
 ## About Me 👩🏻‍💻✨
 My name is Miori Imai, and I'm a software engineer with a passion for building applications that make the world a better place. I love problem-solving because I get joy from it. I am constantly trying to improve my knowledge and understanding of coding!
 
-
+<!--
 [![Miori's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mioriimai&show_icons=true&theme=vue&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
  
 * 🔭 I’m currently working on: adding stretch features to my existing projects.
 * 🌱 I’m currently learning: Typescript, Next.js, Tailwind CSS, React Hooks.
